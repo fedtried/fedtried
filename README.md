@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/fedtried/fedtried/fedtried/HeaderGit.png "Header")](https://fedtried.github.io/)
+[![Header](HeaderGit.png "Header")](https://fedtried.github.io/)
 
 
 ### Hi there 👋
